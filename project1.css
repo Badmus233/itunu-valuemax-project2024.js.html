@@ -5,6 +5,7 @@
     align-items: center;
     color: aliceblue;
     padding:20px ;
+
     
 }
 .fa {
@@ -17,6 +18,7 @@
     height: 30px;
     border-radius: 5px;
     margin-left: px;
+    
 }
 .submit {
     width: 500px;
