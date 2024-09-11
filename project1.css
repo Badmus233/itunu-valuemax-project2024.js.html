@@ -1,0 +1,62 @@
+.maindiv {
+    background-color:rgb(6, 6, 91);
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    color: aliceblue;
+    padding:20px ;
+    
+}
+.fa {
+    font-size: 40px;
+    
+    
+}
+.maindiv2 {
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: px;
+}
+.submit {
+    width: 500px;
+    height: 35px;
+    background-color:lightskyblue;
+    border-radius: 5px;
+}
+.forgotp {
+    color: blue;
+    
+}
+.signin {
+    margin-left: 2px;
+    /* background-color: whitesmoke; */
+    border-radius: 5px;
+    height: 35px;
+    width: 500px;
+    text-align: center;
+
+}
+.Enterprise {
+    background-color: rgb(12, 12, 105);
+    height: 35PX;
+    width: 500px;
+    border-radius: 5PX;
+    text-align: center;
+    color: white;
+    font-size:20PX;
+    
+}
+.bi {
+justify-content: left;
+
+}
+.highlight {
+    color:lightblue;
+}
+.btn {
+    background-color: beige;
+}
+.body {
+    background-color: beige;
+}
