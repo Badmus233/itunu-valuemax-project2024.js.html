@@ -1,0 +1,86 @@
+.img1 {
+    width: 150px;
+    height: 100px;
+    margin-left: 20px;
+}
+.img2 {
+    width: 30px;
+    height: 30px;
+    margin-right: 150px;
+    padding-left: 20px;
+
+}
+.div2 {
+    width: 100%;
+    height: 45px;
+    background-color:rgb(16, 161, 251);
+    display:flex;
+    border-radius: 10px;
+    align-items: center;
+    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); */
+    border: 2px solid black;
+    color: white;
+
+}
+.maindiv {
+    background-color: white;
+    border-radius: 20px;
+    margin: 50px;
+    padding: 50px;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+.email {
+    width: 330px;
+    height: 35px;
+    border-radius: px;
+
+}
+.Continue {
+ background-color: black;
+ color: white;
+ width: 170px;px;
+ height:40px ;
+ border-radius: 2px;
+ align-items: center;
+ justify-content:center ;
+ justify-items: center;
+ display: flex;
+}
+.div3 {
+    display: flex;
+    justify-content:center;
+    
+    
+
+
+}
+.Continue:hover {
+    background-color: rgb(238, 164, 138);
+
+}
+.bi {
+    font-size: 15px;
+}
+.btndiv {
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+
+}
+.btndiv2 {
+    display: flex;
+    /* justify-content: center; */
+    align-items:center ;
+    justify-content:space-between ;
+    padding-left: 200px;
+    margin-left: 100px;
+}
+.extra {
+    margin-left: 200px;
+
+}
